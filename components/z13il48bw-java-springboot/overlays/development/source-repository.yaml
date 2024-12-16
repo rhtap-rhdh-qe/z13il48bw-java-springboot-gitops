@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: z13il48bw-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/z13il48bw-java-springboot
